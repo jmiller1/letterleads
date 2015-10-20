@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>letterleads</title><link href="http://www.letterleads.com/" rel="alternate"></link><link href="http://www.letterleads.com/feeds/misc.atom.xml" rel="self"></link><id>http://www.letterleads.com/</id><updated>2014-10-31T00:00:00-04:00</updated><entry><title>Test Post</title><link href="http://www.letterleads.com/test-post.html" rel="alternate"></link><updated>2014-10-31T00:00:00-04:00</updated><author><name>jeff</name></author><id>tag:www.letterleads.com,2014-10-31:test-post.html</id><summary type="html">&lt;p&gt;&lt;img alt="Icon" src="{attach}icons/icon.png" /&gt;
+&lt;img alt="Photo" src="{attach}photo.jpg" /&gt;
+&lt;a href="{attach}/downloads/archive.zip"&gt;Downloadable File&lt;/a&gt;&lt;/p&gt;</summary></entry></feed>
